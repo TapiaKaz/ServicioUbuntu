@@ -10,4 +10,4 @@ Documentacion de cambios, y control de versiones de lo manejado en el servicio s
 
 # Visor Actualizado del documento
 
- - \url{https://www.overleaf.com/read/wdsnjdtwmhbz#8c937e}
+ - https://www.overleaf.com/read/wdsnjdtwmhbz#8c937e
